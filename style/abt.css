@@ -1,0 +1,28 @@
+nav ul li #abt{
+  color: #ffffff;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px black;
+}
+.content-2{
+    background-color: #F0F5FB;
+    width: 100vw;
+      height: 80vh;
+      color: white;    
+  }
+  p{
+    color: black;
+    padding: 25px;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+    border-radius: 10px;
+    color: rgb(33, 33, 36)
+}
+.pro{
+    font-weight: bold;
+  }
+span{
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(0, 89, 255);
+}
